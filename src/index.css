@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.D9WLyEQaARfWqCTyVrpU {
+  box-shadow: none !important;
+  width: 50rem !important;
+  height: 25rem !important;
+}
+
+.VsTVUAD89KWleD0YRVsD {
+  width: 100% !important;
+}
+
+.TYiiRFB3EhYJGVPE4k4q {
+  width: 100% !important;
+}
+
+.VNZilENM9Pb7KbRFOkYR {
+  justify-content: space-between !important;
+}
+
+
+.zego_model_parent {
+  width: 100vw !important;
+  height: 100vh !important;
+}
+
