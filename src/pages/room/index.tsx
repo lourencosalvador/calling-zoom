@@ -19,7 +19,7 @@ export default function Room(){
         sharedLinks: [
             {
                 name: "Copy Link",
-                url: `http://localhost:3000/room/${roomId}`
+                url: `https://calling-zoom.vercel.app/room/${roomId}`
             }
         ],
         scenario: {
